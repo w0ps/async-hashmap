@@ -1,6 +1,6 @@
 {
   "name": "async-maphash",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a utility that creates performs a map function on the input array and returns it as a hash with values of the results",
   "main": "index.js",
   "scripts": {
